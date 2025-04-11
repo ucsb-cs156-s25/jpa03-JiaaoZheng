@@ -2,6 +2,8 @@
 
 Running at: <https://jpa03-jiaaozheng.dokku-09.cs.ucsb.edu>
 
+Github Link: <https://github.com/ucsb-cs156-s25/jpa03-JiaaoZheng>
+
 # Configuring GitHub Pages for the documentation
 
 This repo contains Github Actions scripts that automatically create and publish documentation for the code:
